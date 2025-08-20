@@ -1,10 +1,10 @@
-# 👋 Olá! 
+# 👋 Hello!  
 
-🎓 Estudante de **Ciência da Computação** (UFRN).  
-📌 Interesse atual: **aplicar os conteúdos da faculdade em projetos práticos**.  
+🎓 Computer Science student (UFRN).  
+📌 Current interest: applying university knowledge in **practical projects**.  
 
-Áreas de foco:
-- Estruturas de Dados  
-- Algoritmos  
+Focus areas:  
+- Data Structures  
+- Algorithms  
 
-🎯 O objetivo é simples: aprender fazendo.
+🎯 The goal is simple: learning by doing. 
