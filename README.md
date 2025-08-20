@@ -1,6 +1,6 @@
 # 👋 Hello!  
 
-🎓 Computer Science student (UFRN).  
+🎓 **Computer Science** student (UFRN).  
 📌 Current interest: applying university knowledge in **practical projects**.  
 
 Focus areas:  
