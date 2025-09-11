@@ -5,6 +5,7 @@
 
 Focus areas:  
 - Data Structures  
-- Algorithms  
+- Algorithms
+- Web Development  
 
 🎯 The goal is simple: learning by doing. 
